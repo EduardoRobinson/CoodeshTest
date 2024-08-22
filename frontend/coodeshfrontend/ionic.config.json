@@ -1,0 +1,7 @@
+{
+  "name": "coodeshfrontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
